@@ -70,8 +70,8 @@ const jonathaSerpa = {
 
 | Apps criados | Projetos e participações |
 |:---:|:---:|
-| **4+** | **15+** |
-| Builds | Web & Mobile |
+| **2+** | **10+** |
+| Builds | Web & API |
 
 </div>
 
@@ -100,7 +100,7 @@ const jonathaSerpa = {
 ---
 <div align="center">
 
-**Frase de efeito**
+**Software is easier to build than to maintain. I design for both.**
 
 </div>
 
