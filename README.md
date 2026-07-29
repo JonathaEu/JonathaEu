@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FAFAFA,50:E8E8E8,100:CFCFCF&height=180&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=color=0:0D1117,50:1F2937,100:2563EB&height=180&section=header"/>
 
 <div align="center">
 
@@ -6,17 +6,17 @@
 
 **Full Stack Developer**
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&repeat=true&width=700&lines=Full+Stack+Software+Engineer;Laravel+%E2%80%A2+PHP+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Building+scalable+web+applications)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=color=58A6FF&center=true&vCenter=true&repeat=true&width=700&lines=Full+Stack+Software+Engineer;Laravel+%E2%80%A2+PHP+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Building+scalable+web+applications)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-94A3B8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatha-serpa/)
-[![Email](https://img.shields.io/badge/Email-94A3B8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathaserpa20@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatha-serpa/)
+[![Email](https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathaserpa20@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=JonathaEu&style=flat-square&color=94A3B8)
-![Followers](https://img.shields.io/github/followers/JonathaEu?style=flat-square&color=94A3B8&labelColor=1a1a2e)
+![Profile Views](https://komarev.com/ghpvc/?username=JonathaEu&style=flat-square&color=58A6FF)
+![Followers](https://img.shields.io/github/followers/JonathaEu?style=flat-square&color=58A6FF&labelColor=0D1117)
 
 </div>
 
@@ -26,13 +26,25 @@
 
 ```javascript
 const jonathaSerpa = {
-    role: "Analista de Sistemas",
+    role: "Full Stack Software Engineer",
+    focus: "Laravel Ecosystem",
     company: "Comercial Milano Brasil",
-    location: "Brasil",
-    
-    expertise: ["React.js", "React Native", "TypeScript" , "Node.js", 
-                "PHP", "Laravel", "Javascript", "NextJs"
-]
+    location: "Brazil",
+
+    backend: ["PHP", "Laravel", "Node.js"],
+
+    frontend: [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Next.js"
+    ],
+
+    mobile: ["React Native"],
+
+    databases: ["MySQL", "Oracle"],
+
+    tools: ["Git", "Linux"]
 };
 ```
 
@@ -79,11 +91,11 @@ const jonathaSerpa = {
 
 ## GitHub Analytics
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=JonathaEu&theme=dark&hide_border=true&stroke=94A3B8&ring=94A3B8&fire=FF8C55&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=8b949e&background=0d1117"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=JonathaEu&theme=dark&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e&background=0d1117"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JonathaEu&bg_color=0d1117&color=94A3B8&line=94A3B8&point=ffffff&area=true&area_color=94A3B8&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JonathaEu&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF&hide_border=true"/>
 
 ---
 <div align="center">
@@ -94,4 +106,4 @@ const jonathaSerpa = {
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FAFAFA,50:E8E8E8,100:CFCFCF&height=180&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F2937,100:2563EB&height=180&section=footer"/>
