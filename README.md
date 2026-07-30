@@ -44,7 +44,7 @@ const jonathaSerpa = {
 
     databases: ["MySQL", "Oracle"],
 
-    tools: ["Git", "Linux"]
+    tools: ["Git", "Linux", "Jenkins"]
 };
 ```
 
@@ -58,7 +58,7 @@ const jonathaSerpa = {
 <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,react,typescript,tailwind&theme=dark" />
 
 ### Também trabalho com
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,jenkins,mysql,sqldeveloper&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,jenkins,mysql&theme=dark" />
 
 </div>
 
