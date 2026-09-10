@@ -139,15 +139,10 @@ I focus on building software that is easy to understand, simple to maintain, and
 
 <div align="center">
 
-<img 
-  height="165" 
-  src="https://github-readme-stats-extended.vercel.app/api?username=JonathaEu&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&hide_border=false" 
-  alt="GitHub Stats" 
-/>
-<img 
-  height="165" 
-  src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=JonathaEu&layout=compact&theme=dark&bg_color=0D0D0D&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&hide_border=false" 
-  alt="Top Languages" 
-/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=JonathaEu&theme=dark&hide_border=true&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=8B949E&background=0D1117" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JonathaEu&bg_color=0D1117&color=94A3B8&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&title_color=D4AF37&border_color=D4AF37&hide_border=true" alt="GitHub Activity Graph" />
 
 </div> <br /> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%3AD4AF37%2C50%3A171717%2C100%3A0D0D0D&height=180&section=footer" />
