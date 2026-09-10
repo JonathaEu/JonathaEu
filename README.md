@@ -1,4 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0D0D0D%2C50%3A171717%2C100%3AD4AF37&height=180&section=header" />
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0D0D0D%2C50%3A171717%2C100%3AD4AF37&height=180&section=header"
+/>
 
 <div align="center">
 
@@ -6,21 +9,36 @@
 
 **Full Stack Software Engineer**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&repeat=true&width=700&lines=Full+Stack+Software+Engineer;Laravel+%7C+PHP+%7C+React+%7C+TypeScript+%7C+Node.js;Building+scalable+web+applications" alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&repeat=true&width=700&lines=Full+Stack+Software+Engineer;2%2B+Years+of+Experience;Laravel+%7C+PHP+%7C+JavaScript+%7C+TypeScript;Building+scalable+%26+maintainable+systems"
+  alt="Typing SVG"
+/>
 
-<br />
+<br/>
 
 <a href="https://www.linkedin.com/in/jonatha-serpa/">
-  <img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=0D0D0D" alt="LinkedIn" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=0D0D0D"
+    alt="LinkedIn"
+  />
 </a>
-
 <a href="mailto:jonathaserpa20@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=0D0D0D" alt="Email" />
+  <img
+    src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=0D0D0D"
+    alt="Email"
+  />
 </a>
 
-<br /><br />
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=JonathaEu&style=flat-square&color=D4AF37" alt="Profile Views" />
+<img
+  src="https://komarev.com/ghpvc/?username=JonathaEu&style=flat-square&color=D4AF37&labelColor=0D0D0D"
+  alt="Profile Views"
+/>
+<img
+  src="https://img.shields.io/github/followers/JonathaEu?style=flat-square&color=D4AF37&labelColor=0D0D0D"
+  alt="Followers"
+/>
 
 </div>
 
@@ -28,115 +46,112 @@
 
 ## About Me
 
+Software Engineer with **2+ years of experience** specializing in backend and full-stack development. Primary focus on **PHP** and **Laravel**, with solid hands-on experience across the **JavaScript / TypeScript** ecosystem (Node.js, React, HTML5/CSS3). Experienced in building RESTful APIs, robust web applications, and scalable architectures.
+
 ```typescript
 const jonathaSerpa = {
     role: "Full Stack Software Engineer",
+    experience: "2+ years",
     location: "Brazil",
 
-    backend: [
+    coreTech: [
         "PHP",
         "Laravel",
-        "Node.js"
-    ],
-
-    frontend: [
         "JavaScript",
         "TypeScript",
+        "Node.js",
         "React",
-        "Next.js"
-    ],
-
-    mobile: [
         "React Native"
-    ],
-
-    databases: [
-        "MySQL",
-        "Oracle"
     ],
 
     principles: [
         "Clean Architecture",
-        "SOLID",
-        "Clean Code",
+        "SOLID Principles",
         "Maintainability",
         "Scalability"
     ]
 };
 ```
-Tech Stack
-<div align="center">
-Core Stack
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,ts,js&theme=dark" alt="Core Stack" />
 
-<br /><br />
+---
 
-Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=nextjs,tailwind,html,css&theme=dark" alt="Frontend Stack" />
+## Engineering Philosophy
 
-<br /><br />
+> *"Software is easier to build than to maintain. I design for both."*
 
-React Native
+I focus on building software that is easy to understand, simple to maintain, and designed to evolve over time. My approach combines clean architecture, solid engineering principles, and pragmatic solutions to create systems that grow seamlessly without unnecessary complexity.
 
-<br /><br />
+---
 
-Databases & Infrastructure
-<img src="https://skillicons.dev/icons?i=mysql,oracle,docker,linux,git,jenkins&theme=dark" alt="Database and Infrastructure Stack" /> </div>
-Engineering Philosophy
+## Tech Stack
 
-Software is easier to build than to maintain. I design for both.
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-I believe good software is not only about making things work.
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-It is about creating systems that remain understandable, maintainable and adaptable as they evolve.
+### Mobile & DevOps
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-That's why I value:
+---
 
-Clean Architecture
-SOLID principles
-Separation of concerns
-Simple and expressive code
-Maintainability over short-term solutions
-Scalability without unnecessary complexity
-Current Focus
+## Current Focus
 
-I'm currently focused on deepening my expertise in the Laravel ecosystem and becoming a stronger Full Stack Engineer.
+- 🚀 Developing Full Stack applications with focus on performance and clean code.
+- 🔌 Designing RESTful APIs and system integrations.
+- 💻 Building modern web products using **Laravel, PHP, React,** and **TypeScript**.
+- 🏗️ Applying **Clean Architecture** and **SOLID principles** to ensure maintainability.
+- 🐳 Setting up containerized development and deployment workflows with **Docker**.
 
-Areas I'm particularly interested in:
+---
 
-Advanced Laravel
-Software Architecture
-Domain-Driven Design
-Design Patterns
-RESTful APIs
-Distributed Systems
-Docker & CI/CD
-Scalable applications
-Featured Projects
-Project	Description	Stack
-Laravel SaaS	Multi-tenant SaaS application	Laravel, PHP
-REST API	API designed around Clean Architecture	Laravel, PHP
-Admin Panel	Modern administration platform	Filament, Livewire
-Web Application	Full Stack web application	React, TypeScript, Node.js
-GitHub Analytics
-<div align="center">
+## Key Highlights
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JonathaEu&show_icons=true&hide_border=true&theme=dark&title_color=D4AF37&text_color=F5F5F5&icon_color=D4AF37&bg_color=0D0D0D" alt="GitHub Stats" />
+| Metric | Details |
+| :--- | :--- |
+| **Experience** | 2+ Years in Software Engineering |
+| **Live Apps** | 4+ Published / Deployed Applications |
+| **Projects** | 15+ Web & Mobile Projects & Contributions |
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathaEu&layout=compact&hide_border=true&theme=dark&title_color=D4AF37&text_color=F5F5F5&bg_color=0D0D0D" alt="Top Languages" />
+---
 
-</div> <br /> <div align="center">
+## Featured Projects
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=JonathaEu&theme=dark&hide_border=true&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=8B8B8B&background=0D0D0D" alt="GitHub Streak" />
+| Project | Description | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Pousada Parnaioca** | Web application developed for hospitality management. | `PHP` `Bootstrap` | [Repository](https://github.com/JonathaEu) |
 
-</div> <br />
+---
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JonathaEu&bg_color=0D0D0D&color=D4AF37&line=D4AF37&point=F5F5F5&area=true&area_color=8B6B00&hide_border=true" alt="GitHub Activity Graph" />
+## GitHub Analytics
 
 <div align="center">
-Discipline. Precision. Continuous Improvement.
-<br />
 
-Software is easier to build than to maintain. I design for both.
+<img 
+  height="165" 
+  src="https://github-readme-stats.vercel.app/api?username=JonathaEu&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&hide_border=false" 
+  alt="GitHub Stats" 
+/>
+<img 
+  height="165" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathaEu&layout=compact&theme=dark&bg_color=0D0D0D&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&hide_border=false" 
+  alt="Top Languages" 
+/>
 
-</div> <br /> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%3AD4AF37%2C50%3A171717%2C100%3A0D0D0D&height=180&section=footer" />
+<br/><br/>
+
+*Discipline • Precision • Continuous Improvement*
+
+</div>
