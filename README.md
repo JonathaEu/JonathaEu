@@ -141,17 +141,13 @@ I focus on building software that is easy to understand, simple to maintain, and
 
 <img 
   height="165" 
-  src="https://github-readme-stats.vercel.app/api?username=JonathaEu&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&hide_border=false" 
+  src="https://github-readme-stats-extended.vercel.app/api?username=JonathaEu&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&hide_border=false" 
   alt="GitHub Stats" 
 />
 <img 
   height="165" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathaEu&layout=compact&theme=dark&bg_color=0D0D0D&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&hide_border=false" 
+  src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=JonathaEu&layout=compact&theme=dark&bg_color=0D0D0D&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&hide_border=false" 
   alt="Top Languages" 
 />
 
-<br/><br/>
-
-*Discipline • Precision • Continuous Improvement*
-
-</div>
+</div> <br /> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%3AD4AF37%2C50%3A171717%2C100%3A0D0D0D&height=180&section=footer" />
